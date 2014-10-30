@@ -1,0 +1,357 @@
+# Russian language for game Corners.
+# Copyright (C) 2008 Alexey Mozhaev
+# This file is distributed under the same license as the Corners package.
+# Alexey Mozhaev <lxmzhv@gmail.com>, 2008.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: 0.1\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2009-04-05 13:58+0400\n"
+"PO-Revision-Date: 2008-06-29 16:01+0400\n"
+"Last-Translator: Alexey Mozhaev <lxmzhv@gmail.com>\n"
+"Language-Team: Russian <lxmzhv@gmail.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: cpp/about.cpp:8
+msgid "Alexey Mozhaev"
+msgstr "Алексей Можаев"
+
+#: cpp/about.cpp:9
+msgid ""
+"A logical game as known as Halma.\n"
+"Dedicated to River Tam."
+msgstr "Логическая игра, также известная под названием Халма."
+
+#: cpp/about.cpp:12 cpp/about.cpp:13 cpp/ui.cpp:1019
+msgid "Corners"
+msgstr "Уголки"
+
+#: cpp/about.cpp:18
+msgid "License"
+msgstr ""
+"Уголки - это свободная программа; вы можете распространять и/или "
+"изменять её на условиях GNU General Public License version 2, которая "
+"опубликована организацией Free Software Foundation.\n"
+"\n"
+"Игра Уголки распространяется с надеждой, что она будет полезна, однако "
+"БЕЗ КАКИХ-ЛИБО ГАРАНТИЙ. Более подробную информацию вы можете найти в "
+"тексте GNU General Public License.\n"
+"\n"
+"Вы должны были получить копию GNU General Public License вместе с "
+"программой Уголки; если нет, то вы можете получить копию, написав письмо "
+"по адресу: Free Software Foundation, Inc., 51 Franklin Street, Fifth "
+"Floor, Boston, MA  02110-1301  USA"
+
+#: cpp/about.cpp:30
+msgid "Rules text"
+msgstr ""
+"Игра Уголки (также известная под именем Халма).\n"
+"\n"
+"В игре участвуют два игрока, фишки которых расположены в противоположных "
+"углах доски. Цель игры - переместить все свои фишки из одного угла доски в "
+"противоположный. Каждый ход игрок либо передвигает одну из своих фишек в "
+"соседнюю клетку, либо перепрыгивает ею через одну или несколько своих или "
+"чужих фишек, при этом передвижения осуществляются по горизонтали и "
+"вертикали. Выигрывает тот игрок, который переместит все свои фишки в "
+"противоположный угол за меньшее число ходов."
+
+#: cpp/about.cpp:36 cpp/ui.cpp:763
+msgid "Rules"
+msgstr "Правила"
+
+#: cpp/preferences.cpp:61
+msgid "Difficulty"
+msgstr "Уровень сложности"
+
+#: cpp/preferences.cpp:66
+msgid "Normal (AI 1)"
+msgstr "Нормально (ИИ 1)"
+
+#: cpp/preferences.cpp:67
+msgid "Hard (AI 2)"
+msgstr "Трудно (ИИ 2)"
+
+#: cpp/preferences.cpp:69
+msgid "Number of considered turns"
+msgstr "Количество просчитываемых ходов"
+
+#: cpp/preferences.cpp:73
+msgid "Consider opponent turns"
+msgstr "Просчитывать ходы противника"
+
+#: cpp/preferences.cpp:204 cpp/ui.cpp:769
+msgid "Preferences"
+msgstr "Настройки"
+
+#: cpp/preferences.cpp:213
+msgid "Field size"
+msgstr "Размер поля"
+
+#: cpp/preferences.cpp:216
+msgid "Chip area size"
+msgstr "Размер области фишек"
+
+#: cpp/ui.cpp:129
+msgid "Draw"
+msgstr "Ничья"
+
+#: cpp/ui.cpp:131
+#, c-format
+msgid "Player %d finished %d turns later"
+msgstr "Игрок %d закончил на %d ход(а,ов) позже"
+
+#: cpp/ui.cpp:134
+#, c-format
+msgid "Player %d won"
+msgstr "Игрок %d выиграл"
+
+#: cpp/ui.cpp:136
+#, c-format
+msgid "Player %d turns"
+msgstr "Ходит игрок %d"
+
+#: cpp/ui.cpp:165 cpp/ui.cpp:168
+msgid "fields"
+msgstr "полей"
+
+#: cpp/ui.cpp:166 cpp/ui.cpp:169
+msgid "turns"
+msgstr "ходов"
+
+#: cpp/ui.cpp:369
+#, c-format
+msgid "Draw (%d turns)."
+msgstr "Игра закончилась ничьей (%d ход(а,ов))."
+
+#: cpp/ui.cpp:371
+#, c-format
+msgid "Player %d has finished %d turns later."
+msgstr "Игрок %d закончил на %d ход(а,ов) позже"
+
+#: cpp/ui.cpp:386
+#, c-format
+msgid "Player %d has won (%d turns)."
+msgstr "Игрок %d выиграл (%d ход(а,ов))"
+
+#: cpp/ui.cpp:752
+msgid "_Game"
+msgstr "_Игра"
+
+#: cpp/ui.cpp:753
+msgid "_Action"
+msgstr "_Действия"
+
+#: cpp/ui.cpp:754
+msgid "_Display"
+msgstr "_Отображение"
+
+#: cpp/ui.cpp:755
+msgid "_Help"
+msgstr "_Помощь"
+
+#: cpp/ui.cpp:756
+msgid "_Color"
+msgstr "_Цвета"
+
+#: cpp/ui.cpp:757
+msgid "_Chips"
+msgstr "_Фишки"
+
+#: cpp/ui.cpp:758
+msgid "_Mode"
+msgstr "_Режим"
+
+#: cpp/ui.cpp:759
+msgid "_Position"
+msgstr "_Положение"
+
+#: cpp/ui.cpp:760
+msgid "_New"
+msgstr "_Новая"
+
+#: cpp/ui.cpp:760
+msgid "New game"
+msgstr "Новая игра"
+
+#: cpp/ui.cpp:761
+msgid "_Quit"
+msgstr "_Выход"
+
+#: cpp/ui.cpp:761
+msgid "Quit"
+msgstr "Выход"
+
+#: cpp/ui.cpp:762
+msgid "_About"
+msgstr "О программе"
+
+#: cpp/ui.cpp:762
+msgid "About"
+msgstr "О программе"
+
+#: cpp/ui.cpp:763
+msgid "_Rules"
+msgstr "_Правила"
+
+#: cpp/ui.cpp:764
+msgid "_Next"
+msgstr "_Вперёд"
+
+#: cpp/ui.cpp:764
+msgid "Let AI turn"
+msgstr "Позволить компьютеру сделать ход"
+
+#: cpp/ui.cpp:765
+msgid "_Back"
+msgstr "_Назад"
+
+#: cpp/ui.cpp:765
+msgid "Undo turn"
+msgstr "Отменить ход"
+
+#: cpp/ui.cpp:766
+msgid "_Auto"
+msgstr "Автоматическая игра"
+
+#: cpp/ui.cpp:766
+msgid "Run AI vs AI game"
+msgstr "Продолжить игру в режиме компьютер против компьютера"
+
+#: cpp/ui.cpp:767
+msgid "_Pause"
+msgstr "_Пауза"
+
+#: cpp/ui.cpp:767
+msgid "Stop AI vs AI game"
+msgstr "Остановить игру компьютер против компьютера"
+
+#: cpp/ui.cpp:768
+msgid "_Change colors"
+msgstr "Поменять _цвета"
+
+#: cpp/ui.cpp:768
+msgid "Change color scheme"
+msgstr "Изменить цветовую схему"
+
+#: cpp/ui.cpp:769
+msgid "_Preferences"
+msgstr "_Настройки"
+
+#: cpp/ui.cpp:770
+msgid "_Default"
+msgstr "По _умолчанию"
+
+#: cpp/ui.cpp:770
+msgid "Default field position"
+msgstr "Положение поля по умолчанию"
+
+#: cpp/ui.cpp:776
+msgid "_Classic"
+msgstr "Классические"
+
+#: cpp/ui.cpp:776
+msgid "Classic theme"
+msgstr "Классическая тема"
+
+#: cpp/ui.cpp:777
+msgid "_Dark"
+msgstr "Тёмные"
+
+#: cpp/ui.cpp:777
+msgid "Dark theme"
+msgstr "Тёмная тема"
+
+#: cpp/ui.cpp:778
+msgid "_Light"
+msgstr "Светлые"
+
+#: cpp/ui.cpp:778
+msgid "Light theme"
+msgstr "Светлая тема"
+
+#: cpp/ui.cpp:784
+msgid "_Square"
+msgstr "Квадратные"
+
+#: cpp/ui.cpp:784
+msgid "Square"
+msgstr "Квадратные"
+
+#: cpp/ui.cpp:785
+msgid "_Circle"
+msgstr "Круглые"
+
+#: cpp/ui.cpp:785
+msgid "Circle"
+msgstr "Круглые"
+
+#: cpp/ui.cpp:791
+msgid "Invert _X"
+msgstr "Перевернуть по X"
+
+#: cpp/ui.cpp:791
+msgid "Rotate field horizontally"
+msgstr "Перевернуть поле по-горизонтали"
+
+#: cpp/ui.cpp:792
+msgid "Invert _Y"
+msgstr "Перевернуть по Y"
+
+#: cpp/ui.cpp:792
+msgid "Rotate field vertically"
+msgstr "Перевернуть поле по-вертикали"
+
+#: cpp/ui.cpp:894
+msgid "game:"
+msgstr "игра:"
+
+#: cpp/ui.cpp:894
+msgid "turn:"
+msgstr "ход:"
+
+#: cpp/ui.cpp:894
+msgid "wins:"
+msgstr "победы:"
+
+#: cpp/ui.cpp:895
+msgid "draws:"
+msgstr "ничьи:"
+
+#: cpp/ui.cpp:895
+msgid "score:"
+msgstr "очки:"
+
+#: cpp/ui.cpp:895
+msgid "experience 1:"
+msgstr "опыт 1-го:"
+
+#: cpp/ui.cpp:895
+msgid "experience 2:"
+msgstr "опыт 2-го:"
+
+#: cpp/ui.cpp:931
+msgid "Player 1"
+msgstr "Игрок 1"
+
+#: cpp/ui.cpp:932 cpp/ui.cpp:938
+msgid "Human"
+msgstr "Человек"
+
+#: cpp/ui.cpp:934 cpp/ui.cpp:940
+msgid "Computer"
+msgstr "Компьютер"
+
+#: cpp/ui.cpp:937
+msgid "Player 2"
+msgstr "Игрок 2"
+
+#: cpp/ui.cpp:993
+msgid "Interactive"
+msgstr "Сообщать о результатах игры"
+
+#: cpp/ui.cpp:994
+msgid "Show possible turns"
+msgstr "Показывать возможные ходы"

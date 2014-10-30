@@ -1,0 +1,20 @@
+# Translatable strings for GTK+ Hello World application.
+# Copyright (C) 2005 Maciej Katafiasz
+# This file is distributed under the same license as the gtk-hello package.
+# Maciej Katafiasz <ibmdw@mathrick.org>, 2005.
+#
+#, fuzzy
+msgid	""
+msgstr	"Project-Id-Version: 1.0\n"
+	"Report-Msgid-Bugs-To: \n"
+	"POT-Creation-Date: 2005-11-21 22:26+0100\n"
+	"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+	"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+	"Language-Team: LANGUAGE <LL@li.org>\n"
+	"MIME-Version: 1.0\n"
+	"Content-Type: text/plain; charset=CHARSET\n"
+	"Content-Transfer-Encoding: 8bit\n"
+
+#: corners.c:45
+msgid	"Quit"
+msgstr	""

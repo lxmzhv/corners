@@ -1,0 +1,11 @@
+1. BUILDING
+
+To build corners on POSIX system, simply run 'make corners'.
+This command will generate 'corners' binary file which you may run using the
+following command: './corners'
+
+2. INSTALLING
+
+If you would like to install this program into your system you should perform
+the following commands: 'make && sudo make install'.
+This will install the program into /usr/local/ branch.

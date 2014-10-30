@@ -1,0 +1,337 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2009-04-05 14:02+0400\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: cpp/about.cpp:8
+msgid "Alexey Mozhaev"
+msgstr ""
+
+#: cpp/about.cpp:9
+msgid ""
+"A logical game as known as Halma.\n"
+"Dedicated to River Tam."
+msgstr ""
+
+#: cpp/about.cpp:12 cpp/about.cpp:13 cpp/ui.cpp:1019
+msgid "Corners"
+msgstr ""
+
+#: cpp/about.cpp:18
+msgid "License"
+msgstr ""
+
+#: cpp/about.cpp:30
+msgid "Rules text"
+msgstr ""
+
+#: cpp/about.cpp:36 cpp/ui.cpp:763
+msgid "Rules"
+msgstr ""
+
+#: cpp/preferences.cpp:61
+msgid "Difficulty"
+msgstr ""
+
+#: cpp/preferences.cpp:66
+msgid "Normal (AI 1)"
+msgstr ""
+
+#: cpp/preferences.cpp:67
+msgid "Hard (AI 2)"
+msgstr ""
+
+#: cpp/preferences.cpp:69
+msgid "Number of considered turns"
+msgstr ""
+
+#: cpp/preferences.cpp:73
+msgid "Consider opponent turns"
+msgstr ""
+
+#: cpp/preferences.cpp:204 cpp/ui.cpp:769
+msgid "Preferences"
+msgstr ""
+
+#: cpp/preferences.cpp:213
+msgid "Field size"
+msgstr ""
+
+#: cpp/preferences.cpp:216
+msgid "Chip area size"
+msgstr ""
+
+#: cpp/ui.cpp:129
+msgid "Draw"
+msgstr ""
+
+#: cpp/ui.cpp:131
+#, c-format
+msgid "Player %d finished %d turns later"
+msgstr ""
+
+#: cpp/ui.cpp:134
+#, c-format
+msgid "Player %d won"
+msgstr ""
+
+#: cpp/ui.cpp:136
+#, c-format
+msgid "Player %d turns"
+msgstr ""
+
+#: cpp/ui.cpp:165 cpp/ui.cpp:168
+msgid "fields"
+msgstr ""
+
+#: cpp/ui.cpp:166 cpp/ui.cpp:169
+msgid "turns"
+msgstr ""
+
+#: cpp/ui.cpp:369
+#, c-format
+msgid "Draw (%d turns)."
+msgstr ""
+
+#: cpp/ui.cpp:371
+#, c-format
+msgid "Player %d has finished %d turns later."
+msgstr ""
+
+#: cpp/ui.cpp:386
+#, c-format
+msgid "Player %d has won (%d turns)."
+msgstr ""
+
+#: cpp/ui.cpp:752
+msgid "_Game"
+msgstr ""
+
+#: cpp/ui.cpp:753
+msgid "_Action"
+msgstr ""
+
+#: cpp/ui.cpp:754
+msgid "_Display"
+msgstr ""
+
+#: cpp/ui.cpp:755
+msgid "_Help"
+msgstr ""
+
+#: cpp/ui.cpp:756
+msgid "_Color"
+msgstr ""
+
+#: cpp/ui.cpp:757
+msgid "_Chips"
+msgstr ""
+
+#: cpp/ui.cpp:758
+msgid "_Mode"
+msgstr ""
+
+#: cpp/ui.cpp:759
+msgid "_Position"
+msgstr ""
+
+#: cpp/ui.cpp:760
+msgid "_New"
+msgstr ""
+
+#: cpp/ui.cpp:760
+msgid "New game"
+msgstr ""
+
+#: cpp/ui.cpp:761
+msgid "_Quit"
+msgstr ""
+
+#: cpp/ui.cpp:761
+msgid "Quit"
+msgstr ""
+
+#: cpp/ui.cpp:762
+msgid "_About"
+msgstr ""
+
+#: cpp/ui.cpp:762
+msgid "About"
+msgstr ""
+
+#: cpp/ui.cpp:763
+msgid "_Rules"
+msgstr ""
+
+#: cpp/ui.cpp:764
+msgid "_Next"
+msgstr ""
+
+#: cpp/ui.cpp:764
+msgid "Let AI turn"
+msgstr ""
+
+#: cpp/ui.cpp:765
+msgid "_Back"
+msgstr ""
+
+#: cpp/ui.cpp:765
+msgid "Undo turn"
+msgstr ""
+
+#: cpp/ui.cpp:766
+msgid "_Auto"
+msgstr ""
+
+#: cpp/ui.cpp:766
+msgid "Run AI vs AI game"
+msgstr ""
+
+#: cpp/ui.cpp:767
+msgid "_Pause"
+msgstr ""
+
+#: cpp/ui.cpp:767
+msgid "Stop AI vs AI game"
+msgstr ""
+
+#: cpp/ui.cpp:768
+msgid "_Change colors"
+msgstr ""
+
+#: cpp/ui.cpp:768
+msgid "Change color scheme"
+msgstr ""
+
+#: cpp/ui.cpp:769
+msgid "_Preferences"
+msgstr ""
+
+#: cpp/ui.cpp:770
+msgid "_Default"
+msgstr ""
+
+#: cpp/ui.cpp:770
+msgid "Default field position"
+msgstr ""
+
+#: cpp/ui.cpp:776
+msgid "_Classic"
+msgstr ""
+
+#: cpp/ui.cpp:776
+msgid "Classic theme"
+msgstr ""
+
+#: cpp/ui.cpp:777
+msgid "_Dark"
+msgstr ""
+
+#: cpp/ui.cpp:777
+msgid "Dark theme"
+msgstr ""
+
+#: cpp/ui.cpp:778
+msgid "_Light"
+msgstr ""
+
+#: cpp/ui.cpp:778
+msgid "Light theme"
+msgstr ""
+
+#: cpp/ui.cpp:784
+msgid "_Square"
+msgstr ""
+
+#: cpp/ui.cpp:784
+msgid "Square"
+msgstr ""
+
+#: cpp/ui.cpp:785
+msgid "_Circle"
+msgstr ""
+
+#: cpp/ui.cpp:785
+msgid "Circle"
+msgstr ""
+
+#: cpp/ui.cpp:791
+msgid "Invert _X"
+msgstr ""
+
+#: cpp/ui.cpp:791
+msgid "Rotate field horizontally"
+msgstr ""
+
+#: cpp/ui.cpp:792
+msgid "Invert _Y"
+msgstr ""
+
+#: cpp/ui.cpp:792
+msgid "Rotate field vertically"
+msgstr ""
+
+#: cpp/ui.cpp:894
+msgid "game:"
+msgstr ""
+
+#: cpp/ui.cpp:894
+msgid "turn:"
+msgstr ""
+
+#: cpp/ui.cpp:894
+msgid "wins:"
+msgstr ""
+
+#: cpp/ui.cpp:895
+msgid "draws:"
+msgstr ""
+
+#: cpp/ui.cpp:895
+msgid "score:"
+msgstr ""
+
+#: cpp/ui.cpp:895
+msgid "experience 1:"
+msgstr ""
+
+#: cpp/ui.cpp:895
+msgid "experience 2:"
+msgstr ""
+
+#: cpp/ui.cpp:931
+msgid "Player 1"
+msgstr ""
+
+#: cpp/ui.cpp:932 cpp/ui.cpp:938
+msgid "Human"
+msgstr ""
+
+#: cpp/ui.cpp:934 cpp/ui.cpp:940
+msgid "Computer"
+msgstr ""
+
+#: cpp/ui.cpp:937
+msgid "Player 2"
+msgstr ""
+
+#: cpp/ui.cpp:993
+msgid "Interactive"
+msgstr ""
+
+#: cpp/ui.cpp:994
+msgid "Show possible turns"
+msgstr ""
